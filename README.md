@@ -1,2 +1,2 @@
 # Cola_Pepsi
-Comparation 2 ähnliche stock
+Comparation 2 stock
